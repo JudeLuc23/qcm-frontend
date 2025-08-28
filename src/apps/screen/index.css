@@ -1,0 +1,12 @@
+.accueil-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    height: 94.8vh;
+}
+.accueil-btns{
+    display: flex;
+    flex-wrap: wrap;
+}

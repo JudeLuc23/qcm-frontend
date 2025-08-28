@@ -1,0 +1,14 @@
+.select-size-of-current-page{
+    background-color: #ededed;
+    padding-right: 2px;
+    border-radius: 50px;
+}
+.select-size-of-current-page:hover{
+    background-color: #ddd;
+    color: #008B8B;
+}
+@media (max-width: 700px) {
+    .select-size-of-current-page{
+        margin-top: 5px;
+    }
+}

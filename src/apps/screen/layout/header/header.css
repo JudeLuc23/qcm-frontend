@@ -1,0 +1,16 @@
+
+.header{
+    display: flex;
+    justify-content: space-around;
+    background-color: #2F4F4F;
+    color: white;
+    height: 2rem;
+}
+.head-menu{
+    display: flex;
+}
+.head-menu-btn{
+    /* border: #FF6347 1px solid; */
+    padding: 5px;
+    margin-right: 10px;
+}

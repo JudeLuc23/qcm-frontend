@@ -1,0 +1,15 @@
+/* Bouton submit login*/
+.btn-submit{
+    padding-left: 15px;
+    padding-right: 15px;
+    background-color: none;
+    border-radius: 20px;
+    font-weight: 100;
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px #2F4F4F double;
+}
+.btn-submit:hover{
+    background-color: #7fa0a0;
+}

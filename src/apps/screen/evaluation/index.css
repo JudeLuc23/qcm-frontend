@@ -1,0 +1,29 @@
+.eva-container{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-top: 10px;
+    width: 100%;
+}
+.eva-sous-tit, .eva-res{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-bottom: 10px;
+}
+.eva-sous-time{
+    display: flex;
+    flex-wrap: wrap;
+}
+.span-quest{
+    margin-right: 10px;
+}
+.quest{
+    margin-bottom: 10px;
+}
+.div-radio{
+    padding-right: 10px;
+}

@@ -1,0 +1,19 @@
+
+.head-logo-elt{
+    font-weight: bold;
+    font-size: 20px;
+}
+.l1{
+    font-size: 40px;
+}
+.l1, .l3{
+    color: #FF6347;
+}
+.l2, .l3{
+    position: relative;
+    right: 10px;
+}
+.l3{
+    position: relative;
+    right: 10px;
+}
